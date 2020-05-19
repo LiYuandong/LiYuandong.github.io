@@ -1,0 +1,5 @@
+{
+   "binary_version_android": "",
+   "binary_version_ios": "",
+   "update_version": ""
+}
