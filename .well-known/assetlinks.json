@@ -1,0 +1,10 @@
+[
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "com.westbund.heros.en",
+			"sha256_cert_fingerprints": ["B6:6B:5A:1C:6A:4F:6F:A3:D7:C4:7B:32:6D:35:CC:69:91:62:A3:14:A9:59:23:8A:E8:2E:7B:AA:79:D6:E3:BE"]
+		}
+	}
+]
