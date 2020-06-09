@@ -4,7 +4,18 @@
 		"target": {
 			"namespace": "android_app",
 			"package_name": "com.westbund.heros.en",
-			"sha256_cert_fingerprints": ["B6:6B:5A:1C:6A:4F:6F:A3:D7:C4:7B:32:6D:35:CC:69:91:62:A3:14:A9:59:23:8A:E8:2E:7B:AA:79:D6:E3:BE"]
+			"sha256_cert_fingerprints": [
+				"3C:A0:24:6E:DC:86:66:EE:AE:F4:F9:6D:B1:BB:97:E4:D0:9E:BD:D5:25:0F:79:56:DD:4F:6B:A2:C2:2F:EC:70",
+				"B6:6B:5A:1C:6A:4F:6F:A3:D7:C4:7B:32:6D:35:CC:69:91:62:A3:14:A9:59:23:8A:E8:2E:7B:AA:79:D6:E3:BE"
+			]
+		}
+	},
+	{
+		"relation": ["delegate_permission/common.handle_all_urls"],
+		"target": {
+			"namespace": "android_app",
+			"package_name": "io.dgames.sdkdemo",
+			"sha256_cert_fingerprints": ["A8:FF:AB:38:00:38:E7:BE:ED:65:0C:11:AC:8D:62:AB:4B:4D:A3:75:4D:E8:03:C7:C6:FC:F8:C1:09:50:4F:D8"]
 		}
 	}
 ]
