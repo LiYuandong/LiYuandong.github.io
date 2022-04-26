@@ -6,6 +6,7 @@
     "binary_new_prompt": true,
     "asset_version": "0.0.1",
     "asset_version_test": "0.0.2",
+    "asset_update_url": "https://liyuandong.github.io/files/game001/channels/channel001/hotupdate/",
     "maintain": false,
     "White_list": [
         "0000-0000-0000-0000-0000-0000-0000-0000",
