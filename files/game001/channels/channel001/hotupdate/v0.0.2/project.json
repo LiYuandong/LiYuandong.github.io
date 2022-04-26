@@ -1,0 +1,18 @@
+{
+    "binary_version": "1.0.2",
+    "asset_version": "0.0.2",
+    "asset_root_url": "https://liyuandong.github.io/files/game001/channels/channel001/hotupdate/v0.0.2/package/",
+    "asset_count": 0,
+    "assets": [{
+            "name": "res/common.pb",
+            "md5": "5C5290EB97ED133B9B2C45B3E4010490",
+            "size": 266,
+            "delay": true
+        },
+        {
+            "name": "src/WindowsMachineid.lua",
+            "md5": "21706323F09870AF55F55D6CF89A0CBC",
+            "size": 116
+        }
+    ]
+}

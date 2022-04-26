@@ -1,0 +1,15 @@
+{
+    "binary_version": "1.0.2",
+    "binary_version_min": "1.0.1",
+    "binary_version_min_test": "1.0.2",
+    "binary_url": "https://liyuandong.github.io/files/game001/channels/channel001/app",
+    "binary_new_prompt": true,
+    "asset_version": "0.0.1",
+    "asset_version_test": "0.0.2",
+    "maintain": false,
+    "White_list": [
+        "0000-0000-0000-0000-0000-0000-0000-0000",
+        "0000-0000-0000-0000-0000-0000-0000-0000",
+        "0000-0000-0000-0000-0000-0000-0000-0000"
+    ]
+}
